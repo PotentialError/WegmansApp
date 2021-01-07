@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WegmansApp</string>
+    <string name="start_list">Start List</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="welcome_to_wegmans">Welcome to Wegmans!</string>
+    <string name="itemAdd">Add Item</string>
+    <string name="welcome_default">Welcome BLANK</string>
+    <string name="almond_butter">Almond Butter</string>
+    <string name="oatmeal">Oatmeal</string>
+    <string name="kombucha">Kombucha</string>
+    <string name="blueberries">Blueberries</string>
+    <string name="kale">Kale</string>
+    <string name="cinnamon">Cinnamon</string>
+    <string name="avocado">Avocado</string>
+    <string name="dark_chocolate">Dark Chocolate</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ItemActivity"
+    android:orientation = "vertical"
+    android:layout_margin = "25dp">
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/almond_butter"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/oatmeal"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/dark_chocolate"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/avocado"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/kale"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/cinnamon"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/blueberries"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+    <Button
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "@string/kombucha"
+        android:textSize = "25sp"
+        android:onClick = "sendBack"
+        />
+</LinearLayout>
